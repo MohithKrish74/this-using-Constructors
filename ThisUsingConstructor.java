@@ -23,6 +23,6 @@ public class ThisUsingConstructor
 {
     public static void main(String[] args)
     {
-        BankDetails obf = new BankDetails("Ram");
+        BankDetails obj = new BankDetails("Ram");
     }
 }
